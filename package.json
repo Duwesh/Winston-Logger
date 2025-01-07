@@ -20,5 +20,9 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Duwesh/Winston-Logger.git"
   }
 }
